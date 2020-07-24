@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Data Management at work.
+- 🔭 I’m currently working on Creating multiple libraries on books that I have been reading on, textbooks that I have from college, as well as online cookbooks in AI.
+- ⚡ Fun fact: I actually started as a biomedical engineer with the goal of working in the Cell and Tissue Engineering field, but after learning MATLAB in my freshman year of College, I fell in love with the medical device industry and programming.
 <!--
 **wpeguero/wpeguero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
